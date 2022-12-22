@@ -33,7 +33,7 @@ def convert_to_binary(decimal_num, binary_num = ''):
 
     return binary_num
 
-dec_num = 0
+dec_num = 45
 
 if dec_num == 0:
     print(0)
